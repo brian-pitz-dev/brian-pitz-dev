@@ -4,7 +4,7 @@
 
 **Desarrollador Full Stack Jr.** · CABA, Argentina
 
-Estudio la Tecnicatura Superior en Desarrollo de Software en el IFTS N°18 y trabajo armando sitios y tiendas online. Me gusta entender cómo funciona lo que construyo, de la pantalla a la base de datos, y seguir aprendiendo con proyectos reales.
+Estudiante de la Tecnicatura Superior en Desarrollo de Software en el IFTS N°18 y trabajo armando sitios y tiendas online.
 
 <a href="https://linkedin.com/in/brian-pitz-desarrollador"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:brian.pitz97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
