@@ -4,7 +4,7 @@
 
 **Desarrollador Full Stack Jr.** · CABA, Argentina
 
-Estudiante de la Tecnicatura Superior en Desarrollo de Software en el IFTS N°18 y trabajo armando sitios y tiendas online.
+Estudio la Tecnicatura Superior en Desarrollo de Software en el IFTS N°18 y trabajo armando sitios y tiendas online. Me gusta entender cómo funciona lo que construyo, de la pantalla a la base de datos, y seguir aprendiendo con proyectos reales.
 
 <a href="https://linkedin.com/in/brian-pitz-desarrollador"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:brian.pitz97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -40,12 +40,3 @@ Estudiante de la Tecnicatura Superior en Desarrollo de Software en el IFTS N°18
 |---|---|---|
 | [Plan de Vida 2026](https://github.com/brian-pitz-dev/PlandeVida2026) | App web para organizar mi entrenamiento, mis comidas y mis objetivos del año. Tiene login y guarda los datos en una base de datos | Next.js, React, TypeScript, Supabase |
 | [E-commerce de Tecnología](https://github.com/brian-pitz-dev/Pre-Entrega-React-JS) · [Demo](https://talentolab-ecommerce.vercel.app/) | Tienda online con catálogo, carrito de compras, rutas protegidas y panel de administración | React, Vite, React Router |
-
-## Actividad en GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=brian-pitz-dev&show_icons=true&hide_border=true&theme=transparent" alt="Estadísticas">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-pitz-dev&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes">
-
-</div>
