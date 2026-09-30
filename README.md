@@ -1,16 +1,17 @@
 <div align="center">
 
-# Hola, soy Brian Pitz 👋
+# Hola, soy Brian Pitz
 
 **Desarrollador Full Stack Jr.** · CABA, Argentina
-Estudiante de la Tecnicatura Superior en Desarrollo de Software (IFTS N°18). Desarrollo sitios y tiendas online.
+
+Estudio la Tecnicatura Superior en Desarrollo de Software en el IFTS N°18 y trabajo armando sitios y tiendas online. Me gusta entender cómo funciona lo que construyo, de la pantalla a la base de datos, y seguir aprendiendo con proyectos reales.
 
 <a href="https://linkedin.com/in/brian-pitz-desarrollador"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:brian.pitz97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
-## 🛠️ Stack
+## Con qué trabajo
 
 **Front-end**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -20,7 +21,7 @@ Estudiante de la Tecnicatura Superior en Desarrollo de Software (IFTS N°18). De
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Back-end y datos**
+**Back-end y bases de datos**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -33,14 +34,14 @@ Estudiante de la Tecnicatura Superior en Desarrollo de Software (IFTS N°18). De
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Tiendanube](https://img.shields.io/badge/Tiendanube-00AEEF?style=flat)
 
-## 🚀 Proyectos
+## Proyectos
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [Plan de Vida 2026](https://github.com/brian-pitz-dev/PlandeVida2026) | App web para planificar entrenamiento, nutrición y seguimiento de objetivos, con login y base de datos | Next.js, React, TypeScript, Supabase |
-| [E-commerce de Tecnología](https://github.com/brian-pitz-dev/Pre-Entrega-React-JS) · [Demo](https://talentolab-ecommerce.vercel.app/) | Tienda online con catálogo, carrito, rutas protegidas y panel admin | React, Vite, React Router |
+| [Plan de Vida 2026](https://github.com/brian-pitz-dev/PlandeVida2026) | App web para organizar mi entrenamiento, mis comidas y mis objetivos del año. Tiene login y guarda los datos en una base de datos | Next.js, React, TypeScript, Supabase |
+| [E-commerce de Tecnología](https://github.com/brian-pitz-dev/Pre-Entrega-React-JS) · [Demo](https://talentolab-ecommerce.vercel.app/) | Tienda online con catálogo, carrito de compras, rutas protegidas y panel de administración | React, Vite, React Router |
 
-## 📈 GitHub
+## Actividad en GitHub
 
 <div align="center">
 
