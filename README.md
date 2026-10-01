@@ -2,7 +2,7 @@
 
 # Hi, I'm Brian
 
-### Junior Full Stack Developer · Buenos Aires, Argentina
+### Full Stack Developer · Buenos Aires, Argentina
 
 I build websites and online stores, and I'm still learning something new every week.
 
