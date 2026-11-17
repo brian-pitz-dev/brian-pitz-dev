@@ -45,7 +45,7 @@ Here you'll find my side projects, the things I build while I learn, and probabl
 
 ### Things I've built
 
-- **[Bakata](https://github.com/brian-pitz-dev/proyecto-integrador-Bakata-)**: a multi-user app that plans your training, meals and running events, with an AI coach that knows your plan. Next.js, TypeScript, Supabase and Gemini. [Live demo](https://bakata.netlify.app)
+- **[Bakata](https://github.com/brian-pitz-dev/bakata)**: a multi-user app that plans your training, meals and running events, with an AI coach that knows your plan. Next.js, TypeScript, Supabase and Gemini. [Live demo](https://bakata.netlify.app)
 - **[Tech E-commerce](https://github.com/brian-pitz-dev/Pre-Entrega-React-JS)**: an online store with cart, protected routes and an admin panel. React and Vite. [Live demo](https://talentolab-ecommerce.vercel.app/)
 
 ### Outside the code
