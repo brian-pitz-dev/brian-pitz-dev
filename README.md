@@ -45,12 +45,12 @@ Here you'll find my side projects, the things I build while I learn, and probabl
 
 ### Things I've built
 
-- **[Plan de Vida 2026](https://github.com/brian-pitz-dev/PlandeVida2026)**: a web app that plans my training, meals and goals for the year. Next.js, TypeScript and Supabase.
+- **[Bakata](https://github.com/brian-pitz-dev/proyecto-integrador-Bakata-)**: a multi-user app that plans your training, meals and running events, with an AI coach that knows your plan. Next.js, TypeScript, Supabase and Gemini. [Live demo](https://bakata.netlify.app)
 - **[Tech E-commerce](https://github.com/brian-pitz-dev/Pre-Entrega-React-JS)**: an online store with cart, protected routes and an admin panel. React and Vite. [Live demo](https://talentolab-ecommerce.vercel.app/)
 
 ### Outside the code
 
-I run. A 10K, a half marathon and a pilgrimage walk are on my 2026 list, and that's the reason Plan de Vida exists.
+I run. A 10K, a half marathon and a pilgrimage walk are on my 2026 list, and that's how Bakata started: as [Plan de Vida 2026](https://github.com/brian-pitz-dev/PlandeVida2026), an app just for me.
 
 <div align="center">
 
